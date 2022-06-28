@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tialcoforado
-- 👀 I’m interested in R, Python, IDD (inovações democráticas digitais)
-- 🌱 I’m currently learning python para análise de dados
+- 👀 I’m interested in Java, R, Python and digital democratic innovations
+- 🌱 I’m currently learning backend development with java for web
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me > contact me on tipeco@gmail.com or @Tialcoforado elsewhere
 
